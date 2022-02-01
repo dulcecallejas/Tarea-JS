@@ -91,7 +91,7 @@ console.log("***Invitados a la fiesta de Ramon***");
   ];
   
 
-//let invitados = []
+
 
 
 
@@ -99,12 +99,12 @@ console.log("***Invitados a la fiesta de Ramon***");
         if (ejercicio2[i].edad >= 18 && ejercicio2[i].esFamiliar){
         
            console.log(ejercicio2[i].nombre)
-            //invitados.push(ejercicio2[i].nombre);
+            
             
         }
     }
 
-//console.log(invitados);
+
  /*Con ayuda de ciclos imprime los primeros 50 números de la suceción de
  fibonacci, (1,1,2,3,5,8,13,21).
   ---------------------------------------------------------------------
@@ -134,9 +134,7 @@ for (let i = 0; i < 50; i++) {
 
 
 
-if (fibo2 = 0){
 
-}
 
 
 
